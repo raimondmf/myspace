@@ -24,7 +24,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: raimondmf
+author: 'raimondmf@hotmail.com'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -41,7 +41,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://raimondmf.github.io/images/'
 
 
 # Logo size is 600x80 pixels
