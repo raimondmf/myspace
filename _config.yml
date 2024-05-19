@@ -25,8 +25,8 @@ author: raimondmf
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://github.com/raimondmf/blog'
-baseurl: '/blog'
+url: 'https:/raimondmf.github.io/blog'
+baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,11 +38,11 @@ baseurl: '/blog'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https:/raimondmf.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo_blog01.png"
 
 # Plugins
 plugins:
@@ -192,8 +192,9 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    #twitter   : phlow
+    #facebook  : phlow.media
+  
 
 
 #        ____  _
