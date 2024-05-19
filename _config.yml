@@ -53,7 +53,9 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
 
-
+# See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
+gist:
+  noscript: false
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
 #     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
@@ -219,9 +221,9 @@ msapplication_tilecolor              : '#fabb00'
 #   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
 #
 
-#sass:
-#    sass_dir : _sass
-#    style    : :compressed
+sass:
+    sass_dir : _sass
+    style    : :compressed
 
 
 #       ___                __      __  _
@@ -233,7 +235,7 @@ msapplication_tilecolor              : '#fabb00'
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+ # google_analytics_tracking_id:
 
 
 
