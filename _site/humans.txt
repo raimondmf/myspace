@@ -1,8 +1,6 @@
 /* TEAM */
 
-Name: Phlow
-Site: http://phlow.de/
-Twitter: @phlow
+Name: raimondmf
 
 
 /* THANKS */
