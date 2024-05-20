@@ -28,7 +28,7 @@ author: raimondmf
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.isegur.com'
+url: 'https://raimondmf.github.io'
 baseurl: '/myspace'
 
 # This is for the editing function in _/includes/improve_content
@@ -41,7 +41,7 @@ baseurl: '/myspace'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.isegur.com/images/'
+urlimg: 'https://raimondmf.github.io/images/'
 
 
 # Logo size is 600x80 pixels
