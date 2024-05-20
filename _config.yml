@@ -29,7 +29,7 @@ author: raimondmf
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'http://www.isegur.com'
-baseurl: '/blog'
+baseurl: '/myspace'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
