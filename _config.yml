@@ -20,7 +20,7 @@ description: 'Information Security Officer with a large background on IT and Cyb
  CISSP | CSSLP | CCSK | CCZTA'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="https://www.linkedin.com/in/rai-m-43a10b5">Rai Miralles </a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -54,8 +54,7 @@ plugins:
     - jekyll-paginate
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
-gist:
-  noscript: false
+
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
 #     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
@@ -66,6 +65,19 @@ gist:
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
+# Configurando Jekyll en tu sitio GitHub Pages
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
