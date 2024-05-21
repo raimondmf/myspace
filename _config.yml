@@ -33,7 +33,7 @@ baseurl: '/myspace'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/raimondmf/myspace/edit/gh-pages
+improve_content: https://github.com/raimondmf/myspace/edit/main
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -52,6 +52,15 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-coffeescript
+    - jekyll-default-layout
+    - jekyll-gist
+    - jekyll-github-metadata
+    - jekyll-optional-front-matter
+    - jekyll-paginate
+    - jekyll-readme-index
+    - jekyll-titles-from-headings
+    - jekyll-relative-links
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 
