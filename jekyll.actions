@@ -1,0 +1,13 @@
+# fork the  https://github.com/Phlow/feeling-responsive to a local repository
+# git clone locally
+# install dependencies located in the gem file
+# gem install asciidoc || gem install addressable -v 2.8.5
+# list all of the gem istalled
+# gem list --local
+# update system
+# gem update --system
+# into the dicrectory where the jekyll template is installed
+# bundle install
+# bundle exec jekyll serve
+# and enjoy!
+
