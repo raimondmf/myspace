@@ -1,4 +1,4 @@
-raimondmf.github.io
+raimondmf.github.io/myplace
 ----------------------
 Personal blog of Rai Miralles, an **Information Security Officer**
 
